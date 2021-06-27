@@ -20,5 +20,12 @@
     - MacOS Catalilna Version 10.15.7
 
 ## Challenge Results:
+### Screenshots
+
+![mission_to_mars_img1](https://user-images.githubusercontent.com/36451701/123559885-d4b4f180-d76c-11eb-8c1c-04a8321b1841.png)
+
+![mission_to_mars_img2](https://user-images.githubusercontent.com/36451701/123559888-d8e10f00-d76c-11eb-8b81-4fe3dc6159c5.png)
+
+
 
 ## Challenge Summary:
