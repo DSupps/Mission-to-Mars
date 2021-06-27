@@ -10,6 +10,9 @@
 ### Resources:
 - Data Sources:
     - [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
+    - [NASA Mars News](https://redplanetscience.com/)
+    - [Jet Propulsion Laboratory's](https://spaceimages-mars.com/)
+    - [Mars Facts](https://galaxyfacts-mars.com/)
 - Software:
     - Python 3.9.4
     - Jupyter Notebook 6.1.4
