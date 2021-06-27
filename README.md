@@ -32,4 +32,7 @@
 
 
 ## Challenge Summary:
-### Responsiveness screenshots:
+In addition to scraping and updating full-resolution images with titles, bootstrap components and mobile-responsiveness were added.
+
+![mission_to_mars_img3](https://user-images.githubusercontent.com/36451701/123560489-768a0d80-d770-11eb-8f03-86d79d8d471e.png)
+
