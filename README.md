@@ -9,7 +9,7 @@
 
 ### Resources:
 - Data Sources:
-    - Mars Hemispheres 
+    - [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 - Software:
     - Python 3.9.4
     - Jupyter Notebook 6.1.4
@@ -20,7 +20,7 @@
     - MacOS Catalilna Version 10.15.7
 
 ## Challenge Results:
-### Screenshots
+### Screenshots:
 
 ![mission_to_mars_img1](https://user-images.githubusercontent.com/36451701/123559885-d4b4f180-d76c-11eb-8c1c-04a8321b1841.png)
 
@@ -29,3 +29,4 @@
 
 
 ## Challenge Summary:
+### Responsiveness screenshots:
