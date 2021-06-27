@@ -7,13 +7,13 @@ import datetime as dt
 
 
 def scrape_all():
-    # Initiate headless driver for deployment
+    
     executable_path = {'executable_path': ChromeDriverManager().install()}
     browser = Browser('chrome', **executable_path, headless=True)
 
     news_title, news_paragraph = mars_news(browser)
 
-    # Run all scraping functions and store results in dictionary
+    
     data = {
       "news_title": news_title,
       "news_paragraph": news_paragraph,
@@ -23,7 +23,7 @@ def scrape_all():
       "hemisphere_image_info": hemisphere_image(browser)
     }
 
-    # Stop webdriver and return data
+    # Stop browser and return data
     browser.quit()
     return data
 
@@ -33,7 +33,7 @@ def mars_news(browser):
     # Visit the mars nasa news site
     url = 'https://redplanetscience.com'
     browser.visit(url)
-    # Optional delay for loading the page
+    # Optional delay
     browser.is_element_present_by_css('div.list_text', wait_time=1)
 
     # Convert the browser html to a soup object and then quit the browser
@@ -58,7 +58,7 @@ def mars_news(browser):
 
 
 def featured_image(browser):
-    ### Scrape Featured Images JPL Space Images Featured Image
+    # Scrape Featured Images JPL Space Images Featured Image
     # Visit URL
     url = 'https://spaceimages-mars.com'
     browser.visit(url)
@@ -88,7 +88,7 @@ def featured_image(browser):
 def mars_facts():
     # Add try/except for error handling
     try:
-        # use 'read_html' to scrape the facts table into a dataframe
+        
         # Scrape Mars Table Data: Mars Facts
         df = pd.read_html('https://galaxyfacts-mars.com')[0]
     
