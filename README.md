@@ -1,5 +1,7 @@
 # Mission-to-Mars
 
+![mars](https://user-images.githubusercontent.com/36451701/139772693-873c58a9-f393-41aa-8328-444444e610d3.jpg)
+
 ## Challenge Overview:
 *The challenge is to gather data about the Mission to Mars Project from all over the web and display it on one central location.  In addition, this should all be done without spending any free time gathering the data manually.  To do this, I will create a script that uses BeautifulSoup and Splinter to scrape data, store the data in a MongoDB, and then display it all on a web app. Oh yeah, all of this should be done with a click of a button!*
 
