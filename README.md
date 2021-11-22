@@ -1,4 +1,4 @@
-# Mission-to-Mars
+# Mission_to_Mars
 
 ![mars](https://user-images.githubusercontent.com/36451701/139772693-873c58a9-f393-41aa-8328-444444e610d3.jpg)
 
