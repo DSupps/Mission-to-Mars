@@ -2,7 +2,7 @@
 
 ![mars](https://user-images.githubusercontent.com/36451701/139772693-873c58a9-f393-41aa-8328-444444e610d3.jpg)
 
-## Challenge Overview:
+## Project Overview:
 *The challenge is to gather data about the Mission to Mars Project from all over the web and display it on one central location.  In addition, this should all be done without spending any free time gathering the data manually.  To do this, I will create a script that uses BeautifulSoup and Splinter to scrape data, store the data in a MongoDB, and then display it all on a web app. Oh yeah, all of this should be done with a click of a button!*
 
 1. Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
@@ -24,7 +24,7 @@
     - BeautifulSoup4
     - MacOS Catalilna Version 10.15.7
 
-## Challenge Results:
+## Project Results:
 ### Screenshots:
 
 ![mission_to_mars_img1](https://user-images.githubusercontent.com/36451701/123559885-d4b4f180-d76c-11eb-8c1c-04a8321b1841.png)
