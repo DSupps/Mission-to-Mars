@@ -41,4 +41,4 @@ In addition to scraping and updating full-resolution images with titles, bootstr
 
 ![mission_to_mars_img3](https://user-images.githubusercontent.com/36451701/123560489-768a0d80-d770-11eb-8f03-86d79d8d471e.png)
 
--
+- This project was done by David Supple
